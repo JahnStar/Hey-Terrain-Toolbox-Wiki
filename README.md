@@ -1,6 +1,12 @@
 # Hey-Terrain-Toolbox-Wiki
 **Hey Terrain Toolbox** is a set of tools that allow you to create, modify, and export Terrains in Unity. It includes tools for backing up and restoring Terrain properties, changing the heightmap resolution or height of a Terrain, creating a heightmap of a Terrain or other objects in the scene, applying an heightmap to part or all of a Terrain, exporting a Terrain as an obj file, generating a heightmap of a Terrain using noise algorithms, spawning random objects or swapping hundreds of objects in the scene or on the Terrain Tree Instances, and merging, stitching, or splitting a Terrain.
 
+<div align="center">
+    <br>
+    <img src="Cover.png" width="50%">
+    <br><br>
+</div>
+
 The Hey Terrain Toolbox is easy to use. To use the plugin, you first need to a terrain in Unity. Then, you can select the terrain and open the Hey Terrain Toolbox window. The window will show a list of all the tools that are available.
 
 Here is the table of the tools:
