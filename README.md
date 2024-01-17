@@ -36,6 +36,7 @@ Here is the table of the tools:
 
 The Hey Terrain Toolbox is available on the Unity Asset Store: 
 
-[Buy it now and add to your unity assets](https://u3d.as/38Vw)
+[Buy it now and add to your unity assets](https://u3d.as/38Vw) ([Publisher](https://assetstore.unity.com/publishers/50775))
 <br><br>
-[Unity Asset Store Publisher Page](https://assetstore.unity.com/publishers/50775)
+---
+_© 2024 Jahn Star Games. All rights reserved._
