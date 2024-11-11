@@ -23,7 +23,7 @@ Here is the table of the tools:
 | **Designing Tab** |  |
 | [Generator](https://github.com/JahnStar/Hey-Terrain-Toolbox-Wiki/wiki/3.-Designing-Tab#generator-tool) | Generates a heightmap of a Terrain using noise algorithms. |
 | [Object Spawner](https://github.com/JahnStar/Hey-Terrain-Toolbox-Wiki/wiki/3.-Designing-Tab#object-spawner-tool) | Spawns random objects or swaps hundreds of objects in the scene or on the Terrain Tree Instances. |
-| [Object Swapper](https://github.com/JahnStar/Hey-Terrain-Toolbox-Wiki/wiki/3.-Designing-Tab#object-swapper-tool) | Swaps hundreds of objects in the scene or on the Terrain Tree Instances. |
+| [Object Swapper](https://github.com/JahnStar/Hey-Terrain-Toolbox-Wiki/wiki/3.-Designing-Tab#object-swapper-tool) | Swaps hundreds of objects in the scene or on the Terrain Tree Instances. (New: Export trees as prefabs with the Tree Exporter) |
 | **Editing Tab** |  |
 | [Merger](https://github.com/JahnStar/Hey-Terrain-Toolbox-Wiki/wiki/4.-Editing-Tab#merger-tool) | Merges two or more Terrains. |
 | [Splitter](https://github.com/JahnStar/Hey-Terrain-Toolbox-Wiki/wiki/4.-Editing-Tab#splitter-tool) | Splits a Terrain into two or more Terrains. |
